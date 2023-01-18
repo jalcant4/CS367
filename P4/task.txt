@@ -1,0 +1,6 @@
+The only way to go fast, is to go well.
+13 13 26 78 312 1560
+6 701
+9 27
+13 1
+2 6 5 1 3 40
